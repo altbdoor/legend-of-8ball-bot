@@ -1,0 +1,8 @@
+{
+    "username": "billy_herrington",
+    "password": "oauth:get_key_from__https://twitchapps.com/tmi/",
+    "twitch_channel": "twitch_channel_name",
+
+    "twitch_endpoint_host": "irc.chat.twitch.tv",
+    "twitch_endpoint_port": 80
+}
