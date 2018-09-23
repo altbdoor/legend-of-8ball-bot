@@ -16,7 +16,7 @@ One of the moderators of the Twitch channel, who goes by the name **HighCleverDr
 
 ### Rise
 
-At the same time, I was fiddling around with a basic IRC Twitch bot. The original intention was simple, archive the chat messages. If one wishes to be more ambitious, one could feed the logs into neural network, or even churn out statistics. But to start with, let's just archive things.
+At the same time, I was fiddling around with a basic IRC Twitch bot. The original intention was simple, archive the chat messages. If one wishes to be more ambitious, one could feed the logs into neural network, or even churn out statistics. But to start with, lets just archive things.
 
 ```python
 def sync_fn(con, channel, epoch, user, msg):
@@ -69,11 +69,11 @@ Maybe.
 
 Truth be told, I was truly devastated. It felt like a low blow punch to the gut, but I guess I have to take it like a man? Again, I clarify, I do not mind having to phase out 8BallBot. But being banned after, I felt as if someone had pressed S to spit on me. Even now when I think about it, I get pretty sad about it. As the whole community embraces the new `!8ball`, I was casted aside, as if I was never part of the community, as if I would be better off gone.
 
-I contacted **AgreeableCloseGalago** on why I was banned, and informed him that I did not mind him implementing `!8ball`, and I took down 8BallBot too. His reason was the same as what **HighCleverDromaeosaur** had warned me about, too many bots. I could not accept that as an asnwer, and I was too frustrated to discuss about this with him any further. I left a good day wish, and closed the Whisper tab.
+I contacted **AgreeableCloseGalago** on why I was banned, and informed him that I did not mind him implementing `!8ball`, and I took down 8BallBot too. His reason was the same as what **HighCleverDromaeosaur** had warned me about, too many bots. I could not accept that as an answer, and I was too frustrated to discuss about this with him any further. I left a good day wish, and closed the Whisper tab.
 
 **QuaintReliableDorado** soon let me know that my ban was lifted. I gave him my two cents, but I know that there is nothing much he could do either. Him removing the ban was the kindest thing he could do for me. Along with **HighCleverDromaeosaur**, a couple more users of 8BallBot asked if 8BallBot was well.
 
-Its nice to know that there are some who cared, but I do not know. I guess I will go back to lurking. I guess I'm too tired of being a part of community.
+Its nice to know that there are some who cared, but I do not know. I guess I will go back to lurking. I guess I am too tired of being a part of community.
 
 Does not really matter now, does it?
 
